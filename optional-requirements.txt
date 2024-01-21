@@ -7,7 +7,7 @@ aiodns
 brotli
 
 #/qr_login
-pillow>=4,<10
+pillow>=10.2.0,<10
 qrcode>=6,<8
 
 #/formattednumbers
