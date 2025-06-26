@@ -26,3 +26,4 @@ aiosqlite>=0.16,<0.20
 
 #/proxy
 python-socks[asyncio]
+pycares>=4.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
